@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://imgs.search.brave.com/OvDxN0LSV672AB36UV7Sg6KUNjM2YZa-Prlx9avoEvM/rs:fit:960:720:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tblNvQUdILWV3/dU0vVVlyVEVKWkIw/Q0kvQUFBQUFBQUFP/am8vcXBNR1FLYmxR/SXcvczE2MDAvbWFn/cm8rZG9lbnRlKyVD/MyVBNyVDMyVBM28x/LmpwZw);
+}
+.lista{
+    color: rgb(243, 29, 29);
+}
+.aa{
+    background-color: rgb(241, 141, 141);
+}
+#tabela {
+    background-color: rgb(250, 47, 47);
+}
+.todos {
+    color: rgb(87, 1, 1);
+}
+#final {
+    color: rgb(223, 14, 14);
+}
